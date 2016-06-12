@@ -6,13 +6,13 @@ Customize color scheme for Sublime 👉🏻 [[ Playground ]](http://tmtheme-edit
 
 ### HTML
 
-![](./images/cozy_html.png)
+![](images/cozy_html.png)
 
 ### CSS
 
-![](./images/cozy_css.png)
+![](images/cozy_css.png)
 
 ### JavaScript
 
-![](./images/cozy_javascript.png)
+![](images/cozy_javascript.png)
 
